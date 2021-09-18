@@ -4,8 +4,8 @@ $static_title = 'Khronos glTF Registry';
 include_once("../../assets/static_pages/khr_page_top.php");
 ?>
 
-<p> The glTF registry contains the specification of the Khronos Neural
-    Network Exchange Format. </p>
+<p> The glTF registry contains the specification of the Khronos GL
+    Transmission Format. </p>
 
 <h2> <a name="specs"></a> <b>glTF Specification</b> </h2>
 
@@ -28,7 +28,7 @@ include_once("../../assets/static_pages/khr_page_top.php");
 <h2 id="extensions"> <b>glTF Extension Registry</b> </h2>
 
 <a href="https://github.com/KhronosGroup/glTF/blob/master/extensions">
-Extensions for glTF 2.0</a> are in Markdown format and rendered by Github.
+Extensions for glTF 2.0</a> are in Markdown format (rendered by Github).
 
 <h2> <a name="feedback"></a> Providing Feedback on the Registry and Specification </h2>
 
