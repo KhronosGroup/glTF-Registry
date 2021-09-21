@@ -17,6 +17,11 @@ include_once("../../assets/static_pages/khr_page_top.php");
      <a href="specs/2.0/glTF.2.0.html">HTML</a>. </li>
 </ul>
 
+<p> The asciidoctor source of the specification is found in the
+    <a href="https://github.com/KhronosGroup/glTF"> glTF specification
+    repository</a>. Changes to the specification should be proposed in
+    Github issues or pull requests in that repository. </p>
+
 <p> Previous versions of glTF: </p>
 
 <ul>
