@@ -11,10 +11,16 @@ include_once("../../assets/static_pages/khr_page_top.php");
 <p> The current version of glTF is 2.0: </p>
 
 <ul>
-<li> glTF 2.0 in
+<li> The glTF 2.0.1 specification in
      <a href="specs/2.0/glTF-2.0.pdf">PDF</a> and
      <a href="specs/2.0/glTF-2.0.html">HTML</a>. </li>
 </ul>
+
+<p> The glTF 2.0 specification is regularly updated with clarifications,
+    formatting improvements, and other backwards compatible bug fixes.
+    Every such update increments the patch version number that can be
+    found on the specification front page, e.g., 2.0.0 incremented to 2.0.1.
+</p>
 
 <p> The AsciiDoc source of the specification is found in the
     <a href="https://github.com/KhronosGroup/glTF"> glTF specification
